@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>NewTabbarApplication.xcscheme</key>
+		<key>NewTabbarApplication.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>NewTabbarApplicationUITests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1BE3151820FD9EC0009C2A91</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1BE3154320FDC513009C2A91</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
